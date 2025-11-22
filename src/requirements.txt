@@ -1,0 +1,11 @@
+ipykernel
+git+https://github.com/Oriolrt/GABDConnect@v3.2
+scikit-learn
+tqdm
+matplotlib
+pandas
+ucimlrepo
+networkx
+nbclient
+
+

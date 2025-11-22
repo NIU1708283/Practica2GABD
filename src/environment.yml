@@ -1,0 +1,21 @@
+name: GABDPractica2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - ipykernel
+    - git+https://github.com/Oriolrt/GABDConnect@v3.2
+    - ucimlrepo
+    - networkx
+    - numpy
+    - nbclient
+  - scikit-learn
+  - tqdm
+  - matplotlib
+  - pandas
+
+
+
